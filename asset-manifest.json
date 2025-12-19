@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5e49fec8.css",
-    "main.js": "/static/js/main.5933d6bd.js",
-    "static/js/453.7a2284ac.chunk.js": "/static/js/453.7a2284ac.chunk.js",
-    "static/media/dhoni.jpg": "/static/media/dhoni.705710bb612c113f70f7.jpg",
-    "index.html": "/index.html",
-    "main.5e49fec8.css.map": "/static/css/main.5e49fec8.css.map",
-    "main.5933d6bd.js.map": "/static/js/main.5933d6bd.js.map",
-    "453.7a2284ac.chunk.js.map": "/static/js/453.7a2284ac.chunk.js.map"
+    "main.css": "/Profile_Card/static/css/main.5e49fec8.css",
+    "main.js": "/Profile_Card/static/js/main.af2fdb1c.js",
+    "static/js/453.7a2284ac.chunk.js": "/Profile_Card/static/js/453.7a2284ac.chunk.js",
+    "static/media/dhoni.jpg": "/Profile_Card/static/media/dhoni.705710bb612c113f70f7.jpg",
+    "index.html": "/Profile_Card/index.html",
+    "main.5e49fec8.css.map": "/Profile_Card/static/css/main.5e49fec8.css.map",
+    "main.af2fdb1c.js.map": "/Profile_Card/static/js/main.af2fdb1c.js.map",
+    "453.7a2284ac.chunk.js.map": "/Profile_Card/static/js/453.7a2284ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e49fec8.css",
-    "static/js/main.5933d6bd.js"
+    "static/js/main.af2fdb1c.js"
   ]
 }
