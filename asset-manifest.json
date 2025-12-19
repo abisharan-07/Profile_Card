@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e49fec8.css",
+    "main.js": "/static/js/main.5933d6bd.js",
+    "static/js/453.7a2284ac.chunk.js": "/static/js/453.7a2284ac.chunk.js",
+    "static/media/dhoni.jpg": "/static/media/dhoni.705710bb612c113f70f7.jpg",
+    "index.html": "/index.html",
+    "main.5e49fec8.css.map": "/static/css/main.5e49fec8.css.map",
+    "main.5933d6bd.js.map": "/static/js/main.5933d6bd.js.map",
+    "453.7a2284ac.chunk.js.map": "/static/js/453.7a2284ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e49fec8.css",
+    "static/js/main.5933d6bd.js"
+  ]
+}
